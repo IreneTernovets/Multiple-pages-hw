@@ -1,0 +1,35 @@
+
+.logo-picture {
+    max-width: 150px;
+}
+
+.cat-picture {
+    max-width: 20%;
+    display: block;
+    margin: 20px auto;
+    border: 5px solid #6C63FF;
+    border-radius: 4px;
+}
+
+main {
+    margin: 30px auto;
+    
+}
+
+h1 {
+    text-align: center;
+}
+p {
+    max-width: 50%;
+    margin: 40px auto;
+    background-color: #6C63FF;
+   color: #fff;
+   padding: 50px;
+   border: 10px solid rgb(208, 191, 236);
+   border-radius: 4px;
+}
+
+a {
+    color: #fff;
+    text-decoration: underline;
+}
